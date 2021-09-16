@@ -5,7 +5,13 @@
 Download git repository by:
 
 ```sh
-https://github.com/yarikpo/lab-01-multi-sets.git
+git clone https://github.com/yarikpo/lab-01-multi-sets.git
+```
+
+Enter folder:
+
+```sh
+cd lab-01-multi-sets
 ```
 
 Compile ```main.cpp``` by:
