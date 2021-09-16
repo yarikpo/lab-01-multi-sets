@@ -5,7 +5,7 @@
 Download git repository by:
 
 ```sh
-git clone https://github.com/yarikpo/email-spammer.git
+https://github.com/yarikpo/lab-01-multi-sets.git
 ```
 
 Compile ```main.cpp``` by:
